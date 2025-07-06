@@ -22,6 +22,7 @@ Welcome to the **Car Price Prediction** project! This ML app predicts the resale
 jupyter notebook eda_model_training.ipynb
 
 
+
 🌐 Run the Web App (Streamlit)
 cd app
 streamlit run app.py
@@ -34,16 +35,20 @@ Clean UI for input
 
 Works with real-world noisy data from Quikr
 
+
 📌 Future Improvements
 Add more features like transmission, owner type
 
 Integrate SQLite or MongoDB for saving user inputs
+
 
 Deploy online via Streamlit Cloud / Heroku / AWS
 
 🙌 Made With Passion
 Feel free to ⭐ star this repo or fork it if you found it useful!
 Contributions welcome 💡
+
+
 
 
 ---
@@ -56,6 +61,6 @@ Contributions welcome 💡
 
 ---
 
-Do you want help adding a `.gitignore` file next to clean up your repo (e.g., skip `.ipynb_checkpoints`, `.DS_Store`, etc.)?
+
 
 
